@@ -1,10 +1,8 @@
-package com.google.gwt.eclipse.wtp.maven;
+package com.gwtplugins.maven;
 
 import org.apache.maven.project.MavenProject;
 import org.eclipse.m2e.core.project.IMavenProjectFacade;
 import org.eclipse.m2e.core.project.configurator.ProjectConfigurationRequest;
-
-import com.google.gdt.eclipse.core.ReflectionUtilities;
 
 /**
  * @author Luca Piccarreta

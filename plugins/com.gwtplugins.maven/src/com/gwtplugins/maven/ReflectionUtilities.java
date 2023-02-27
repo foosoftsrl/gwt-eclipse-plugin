@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.google.gdt.eclipse.core;
+package com.gwtplugins.maven;
 
 /**
  * @author luca

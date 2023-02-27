@@ -18,6 +18,8 @@ import com.google.gdt.eclipse.core.natures.NatureUtils;
 import com.google.gdt.eclipse.maven.Activator;
 import com.google.gwt.eclipse.core.nature.GWTNature;
 
+import com.gwtplugins.maven.M2eCompat;
+
 import org.apache.maven.model.Plugin;
 import org.apache.maven.project.MavenProject;
 import org.codehaus.plexus.util.xml.Xpp3Dom;

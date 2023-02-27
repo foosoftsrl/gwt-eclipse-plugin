@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Maven Compatibility
+Bundle-SymbolicName: com.gwtplugins.maven
+Bundle-Vendor: GWT Project
+Bundle-Version: 4.0.1.qualifier
+Require-Bundle: org.eclipse.m2e.core,
+ org.eclipse.m2e.maven.runtime
+Export-Package: com.gwtplugins.maven
+Bundle-ClassPath: .
+Bundle-RequiredExecutionEnvironment: JavaSE-11

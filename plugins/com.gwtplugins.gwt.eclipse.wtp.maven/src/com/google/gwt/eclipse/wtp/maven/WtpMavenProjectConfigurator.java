@@ -31,6 +31,7 @@ import org.eclipse.wst.common.project.facet.core.IFacetedProject;
 import org.eclipse.wst.common.project.facet.core.ProjectFacetsManager;
 
 import com.google.gwt.eclipse.wtp.GwtWtpPlugin;
+import com.gwtplugins.maven.M2eCompat;
 
 /**
  * A {@link WTPProjectConfigurator} that adds GWT facets.
